@@ -1,0 +1,22 @@
+- title: "About"
+  href: "/about/"
+
+- title: "Blog"
+  href: "/blog/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "For Students"
+  href: "/students"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+    - subtitle: "Intro Philososophy"
+      subhref: "/phil101/"
+    - subtitle: "Intro Ethics"
+      subhref: "https://www.icourse163.org/learn/HUST-1003443002"
