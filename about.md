@@ -8,3 +8,4 @@ permalink: /about/
 
 I do have interests outside of the academy, but not many.
 
+I am into sports like tabletennis and badminton and had spent quite some time on both. Productity setups are also part of my hobby, in the hope of making workspace more efficient as well as better looking. 
