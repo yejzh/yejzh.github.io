@@ -1,14 +1,5 @@
 _site
-.sass-cache
-/dross
-HIDEME
-/drafts
-/cache
-/docs/hidden
-/docs/job-materials
-docs/**/*.Rmd
 
-# ignore temp files w/ trailing ~
 *~
 
 # ignore hidden files
