@@ -2,7 +2,6 @@
 title: Hello world!
 author: yejzh 
 layout: post
-permalink: /blog/2020/05/hello-world/
 categories:
   - Site News
 excerpt: "I do not anticipate doing a lot of professional blogging here. When I do, it'll largely be about Rational Choice, Game Theory, or professional development for students in political philosophy."
