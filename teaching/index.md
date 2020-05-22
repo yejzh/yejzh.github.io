@@ -24,7 +24,7 @@ This page includes my teaching philosophy and an empirical assessment of my teac
 
 ### Graduate Classes
 
-- [Social Contract Theories](/teaching/social-contract/)
+- [Topics in Political Philosophy](/teaching/pp-grad/)
 
 ### Proposed Classes
 
