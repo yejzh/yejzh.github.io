@@ -15,7 +15,7 @@ comments: false
   {% endunless %}{% endfor %}
 </ul>-->
 
-<p>Here's all the post categories on my blog.</p>
+<p>Here's all the post categories.</p>
 
 {% for item in (0..site.categories.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
