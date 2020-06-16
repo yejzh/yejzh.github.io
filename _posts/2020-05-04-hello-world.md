@@ -4,6 +4,7 @@ author: yejzh
 layout: post
 categories:
   - Site News
+excerpt: "This site will be about professional development for students at Huazhong University of Science & Technology."
 ---
 
 
