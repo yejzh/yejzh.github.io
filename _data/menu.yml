@@ -13,7 +13,7 @@
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
-    - subtitle: "Intro Philososophy"
+    - subtitle: "PHIL101 - Introduction to Philososophy"
       subhref: "/phil101/"
-    - subtitle: "Intro Ethics"
-      subhref: "/ethics/"
+    - subtitle: "PHIL6538 - Topics in Political Philosophy"
+      subhref: "/phil6538/"
