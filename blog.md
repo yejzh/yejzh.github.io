@@ -1,10 +1,10 @@
 ---
 layout: page
-title: For Students
-permalink: /students/
+title: Blog
+permalink: /blog/
 ---
 
-I write here semi-regularly about some professional development stuff for an intended audience of undergraduate or graduate students in my discipline. Topics vary, but most focus on political philosophy or related technical stuff that I think worth sharing with the general public. To date, <a href="/categories">categories</a> (and number of blog posts in that category) include {% assign sorted_cats = site.categories | sort  %}{% for category in sorted_cats %}{% if forloop.last == true %}and {% endif %}<a href="/categories/#{{category[0]}}" style="font-weight:normal;"> {{category[0] | camelcase }}</a> ({{ category[1].size  }}){% if forloop.last == false %}, {% endif %}{% endfor %}. A full listing of posts follows.
+I blog semi-regularly about stuff I find worth sharing. Among other things, it covers some professional development issues, with an intended audience of undergraduate or graduate students in my discipline in mind. Topics vary, but most focus on political philosophy, moral philosophy or related commentaries. To date, <a href="/categories">categories</a> (and number of blog posts in that category) include {% assign sorted_cats = site.categories | sort  %}{% for category in sorted_cats %}{% if forloop.last == true %}and {% endif %}<a href="/categories/#{{category[0]}}" style="font-weight:normal;"> {{category[0] | camelcase }}</a> ({{ category[1].size  }}){% if forloop.last == false %}, {% endif %}{% endfor %}. A full listing of posts follows.
 
 
 <!-- {% assign sorted_cats = site.categories | sort  %}{% for category in sorted_cats %}{% if forloop.last == true %}and {% endif %}<a href="/categories/#{{category[0]}}" style="font-weight:normal;">{{category[0] | camelcase }}</a> ({{ category[1].size  }}){% if forloop.last == false %},{% endif %} {% endfor %} -->
@@ -23,7 +23,7 @@ I write here semi-regularly about some professional development stuff for an int
 
 <!--<strong>Author:</strong> {{post.author}} -->
 <strong>Category:</strong>  {% if post.categories %}
- 
+
   {% for cat in post.categories %}
   <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
   {% endfor %}

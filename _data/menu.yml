@@ -4,16 +4,14 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "For Students"
-  href: "/students"
+- title: "Blog"
+  href: "/blog/"
 
 - title: "Research"
   href: "/research/"
 
 - title: "Teaching"
   href: "/teaching/"
-  subcategories:
-    - subtitle: "PHIL101 - Introduction to Philososophy"
-      subhref: "/phil101/"
-    - subtitle: "PHIL6538 - Topics in Political Philosophy"
-      subhref: "/phil6538/"
+
+- title: "Misc"
+  href: "/misc/"
