@@ -4,8 +4,8 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "For Students"
+  href: "/students/"
 
 - title: "Research"
   href: "/research/"
@@ -13,5 +13,5 @@
 - title: "Teaching"
   href: "/teaching/"
 
-- title: "Misc"
-  href: "/misc/"
+- title: "Blog"
+  href: "/blog/"
