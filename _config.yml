@@ -10,6 +10,8 @@ github_username:  yejzh
 orcid_id: 0000-0002-2740-369X
 google_scholar_id: W1PVm1IAAAAJ
 
+comments: true
+
 
 # Build settings
 markdown: kramdown
