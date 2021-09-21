@@ -10,7 +10,8 @@ This page includes my teaching philosophy and an empirical assessment of my teac
 
 ## **Teaching Documents**
 
-- [Teaching Philosophy](/docs/teaching-phil.pdf)
+- [Teaching Philosophy](/teaching/teaching-phil/)
+- [Teaching Policy](/teaching/teaching-policy/)
 
 ## **Course Directory**
 
@@ -21,15 +22,16 @@ This page includes my teaching philosophy and an empirical assessment of my teac
 - [Intro Philosophy](/teaching/phil101/)
 - [Intro Political Philosophy](/teaching/pp/)
 - [Intro Ethics](/teaching/ethics/)
+- [Meta-Ethics](/teaching/ethics-meta/)
+- [Moral Psychology](/teaching/moral-psy/)
 
 ### Graduate Classes
 
-- [Topics in Political Philosophy](/teaching/pp-grad/)
+- [Topics in Political Philosophy](/teaching/pp-topics/)
 
 ### Proposed Classes
 
-- [Moral Psychology](/teaching/moral-psy/)
-- [Formal Models in Political Philosophy](/teaching/formal-pp/)
+- [Formal Models in Political Philosophy](/teaching/pp-formal-methods/)
 
 ### *KU Leuven University*
 

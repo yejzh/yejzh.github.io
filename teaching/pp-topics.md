@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Topics in Political Philosophy
-permalink: /teaching/pp-grad/
+permalink: /teaching/pp-topics/
 ---
 
 It's like magic that we live peacefully with each other although we have very different pursuits and oftentimes conflicting claims on the society and on each other. How could peaceful and even harmonious collective life be possible? Why haven't not fallen into what Hobbes calls the state of nature in which everyone fights everyone else? 
