@@ -4,10 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This page includes my teaching philosophy and an empirical assessment of my teaching effectiveness. It also serves as a directory for the courses I have taught, which are freely available to current students, alumni of my classes, and any other interested observers.
-
----
-
 ## **Teaching Guidelines**
 
 - [Teaching Philosophy](/teaching/teaching-phil/)
