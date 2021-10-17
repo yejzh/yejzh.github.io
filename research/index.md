@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research lies in the intersection between philosophy and more formalized human sciences, seeking to uncover the underlying values and normative structures that enable as well as constraint our personal, social and public lives. Currently, the focus is on the public reason project. Here, you can find materials relevant to my published research and work in progress. I also offer a [research statement](/research/research-statement/)  that summarizes and contextualizes my different research agendas.
+My research lies in the intersection between philosophy and more formalized human sciences, seeking to uncover the underlying values and normative structures that enable as well as constrain our personal, social and public lives. Currently, the focus is on the public reason project. Here, you can find materials relevant to my published research and work in progress. I also offer a [research statement](/research/research-statement/)  that summarizes and contextualizes my different research agendas.
 
 ## **Journal Articles**
 
