@@ -12,4 +12,4 @@ This site will mainly post my reflections on political philosophy, moral philoso
 
 Contributions may also come from other faculty members in our department at HUST and I welcome any input readers or colleagues/friends at other institutions may have.
 
-[1]: http://www.hust.edu.cn/
+[1]: http://english.hust.edu.cn/

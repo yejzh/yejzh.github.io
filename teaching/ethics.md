@@ -4,9 +4,9 @@ title: Introduction to Ethics
 permalink: /teaching/ethics/
 ---
 
-Besides the course I teach on site in the classroom, I have also made a course on line (MOOC), entitled "[invitation of ethics](https://www.icourse163.org/course/HUST-1003443002)"（伦理学的邀请）, for the general public. 
+Besides the course I teach on site in the classroom, I have also made a course on line (MOOC), entitled "[invitation of ethics](https://www.icourse163.org/course/HUST-1003443002){:target="_blank"}"（伦理学的邀请）, for the general public. 
 
-Ethics is a philosophical inquiry into the key matters in our practical, social life, i.e. the life engaing and engaged with others. What should we do? What is worth doing? What is the right course of action given a specific situation? Ethics tries to distill the methods we employ when we make moral judgments (i.e. judgments concerning the rightness & wrongness, or goodness & badness of an action), and analyze these methods, to see if they can be rationally justified. Below is a workable syllabus. 
+Ethics is a philosophical inquiry into the key matters in our practical, social life, i.e. the life engaging and engaged with others. What should we do? What is worth doing? What is the right course of action given a specific situation? Ethics tries to distill the methods we employ when we make moral judgments (i.e. judgments concerning the rightness & wrongness, or goodness & badness of an action), and analyze these methods, to see if they can be rationally justified. Below is a workable syllabus. 
 
 
 
