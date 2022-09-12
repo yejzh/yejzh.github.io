@@ -24,4 +24,4 @@ permalink: /teaching/
 ### Graduate Courses
 
 - [Topics in Political Philosophy](/teaching/pp-topics/){:target="_blank"}
-- [Formal Models in Political Philosophy](/teaching/pp-formal-methods/){:target="_blank"}
+- [Formal Models in Practical Philosophy](/teaching/pp-formal-methods/){:target="_blank"}
