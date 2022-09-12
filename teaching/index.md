@@ -8,10 +8,12 @@ permalink: /teaching/
 
 - [Teaching Philosophy](/teaching/teaching-phil/){:target="_blank"}
 - [Teaching Policy](/teaching/teaching-policy/){:target="_blank"}
+- [Structure of Philosophy Paper](/doc/structure-philosophy-paper.pdf){:target="_blank"}
+- [Criteria Grading Student Papers](/docs/Criteria-Grading-Student-Papers.pdf){:target="_blank"}
 
 ## **Course Directory**
 
-### Undergraduate Classes
+### Undergraduate Courses
 
 - [Introduction to Philosophy](/teaching/phil101/){:target="_blank"}
 - [Political Philosophy](/teaching/pp/){:target="_blank"}
@@ -19,7 +21,7 @@ permalink: /teaching/
 - [Meta-Ethics](/teaching/ethics-meta/){:target="_blank"}
 - [Moral Psychology](/teaching/moral-psy/){:target="_blank"}
 
-### Graduate Classes
+### Graduate Courses
 
 - [Topics in Political Philosophy](/teaching/pp-topics/){:target="_blank"}
 - [Formal Models in Political Philosophy](/teaching/pp-formal-methods/){:target="_blank"}
