@@ -8,7 +8,7 @@ permalink: /teaching/
 
 - [Teaching Philosophy](/teaching/teaching-phil/){:target="_blank"}
 - [Teaching Policy](/teaching/teaching-policy/){:target="_blank"}
-- [Structure of Philosophy Paper](/doc/structure-philosophy-paper.pdf){:target="_blank"}
+- [Structure of Philosophy Paper](/docs/structure-philosophy-paper.pdf){:target="_blank"}
 - [Criteria Grading Student Papers](/docs/Criteria-Grading-Student-Papers.pdf){:target="_blank"}
 
 ## **Course Directory**
