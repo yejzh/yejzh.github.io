@@ -4,14 +4,14 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "For Students"
-  href: "/students/"
-
 - title: "Research"
   href: "/research/"
 
 - title: "Teaching"
   href: "/teaching/"
+
+- title: "For Students"
+  href: "/students/"
 
 - title: "Blog"
   href: "/blog/"
