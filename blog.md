@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Blog
+title: After Hope Blog
 permalink: /blog/
 ---
 
-I blog semi-regularly about stuff I find worth sharing. Among other things, it covers some professional development issues, with an intended audience of undergraduate or graduate students in my discipline in mind. Topics vary, but most focus on political philosophy, moral philosophy or related commentaries. To date, <a href="/categories">categories</a> (and number of blog posts in that category) include {% assign sorted_cats = site.categories | sort  %}{% for category in sorted_cats %}{% if forloop.last == true %}and {% endif %}<a href="/categories/#{{category[0]}}" style="font-weight:normal;"> {{category[0] | camelcase }}</a> ({{ category[1].size  }}){% if forloop.last == false %}, {% endif %}{% endfor %}. A full listing of posts follows.
+I blog sporadically on how life, both individual and collective, can be meaningfully lived. Perhaps even our best efforts cannot defeat skepticism and pessimism, but it is still reasonable to have a hope, a reasonable hope. It is after this hope that philosophy finds its foothold and meaning, at least for me. 
+
+Posts are arranged into <a href="/categories">categories</a> and include {% assign sorted_cats = site.categories | sort  %}{% for category in sorted_cats %}{% if forloop.last == true %}and {% endif %}<a href="/categories/#{{category[0]}}" style="font-weight:normal;"> {{category[0] | camelcase }}</a> ({{ category[1].size  }}){% if forloop.last == false %}, {% endif %}{% endfor %}. 
 
 
 <!-- {% assign sorted_cats = site.categories | sort  %}{% for category in sorted_cats %}{% if forloop.last == true %}and {% endif %}<a href="/categories/#{{category[0]}}" style="font-weight:normal;">{{category[0] | camelcase }}</a> ({{ category[1].size  }}){% if forloop.last == false %},{% endif %} {% endfor %} -->
