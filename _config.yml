@@ -18,7 +18,7 @@ markdown: kramdown
 
 # Other options
 permalink: :year/:month/:title
-jobtitle: "Assistant Professor"
+jobtitle: "Associate Professor"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
