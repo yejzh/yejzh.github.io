@@ -18,6 +18,8 @@ Here are some resources that I find of use for students.
 - [Jim Pryor 哲学论文写作指南](/students/Jim Pryor 哲学写作指南.pdf){:target="_blank"}
 - [Jim Pryor 哲学阅读指南](/students/Jim Pryor 哲学阅读指南.pdf){:target="_blank"}
 - [哈佛 Writing Sample 指南](/students/哈佛 Writing Sample 指南.pdf){:target="_blank"}
+- [汤志恒2022论文不是议论文](/students/汤志恒2022论文不是议论文.pdf){:target="_blank"}
+- [汤志恒谈分析性写作及评分](/students/汤志恒谈分析性写作及评分.pdf){:target="_blank"}
 
 ## 分析进路
 
