@@ -5,5 +5,6 @@ layout: post
 categories:
   - 
 excerpt: ""
+image: ".jpg"
 ---
 
