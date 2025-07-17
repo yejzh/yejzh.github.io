@@ -8,4 +8,4 @@ There are quite some formal models employed by practical philosophers, which mak
 
 I borrow [Hun Chung](https://sites.google.com/site/hunchung1980/home)'s idea in stressing the importance of formal methods, not only in political philosophy, but in philosophy in general, as far as it applies properly to the topic in question. I summarize Chung's idea into a rough mindmap, hoping to provide some intuitive clue for the beginner.
 
-<iframe src="/docs/formalized-pp.pdf" class="gde-frame" style="height: 100%; width: 100%; border: none;" scrolling="yes"></iframe>
+<iframe src="/docs/formalized-pp.pdf" class="gde-frame" style="height: 1000px; width: 100%; border: none;" scrolling="yes"></iframe>
