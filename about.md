@@ -9,4 +9,4 @@ permalink: /about/
 I am primarily a person of the academe, most of the time reading, writing, teaching. But I do have interests outside of the academe, although not too many. 
 
 
-I am quite into sports like tabletennis and badminton and had spent quite some time on both of them. 
+I am quite into sports like badminton and had spent quite some time on it. 
