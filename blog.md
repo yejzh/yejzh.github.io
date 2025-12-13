@@ -4,8 +4,6 @@ title: After Reasonable Hope
 permalink: /blog/
 ---
 
-I blog sporadically on how life, both individual and collective, can and should be meaningfully lived. Perhaps even our best efforts cannot defeat skepticism and pessimism, but it is still reasonable to have a hope, a reasonable hope. It is after this hope that philosophy finds its foothold and meaning, at least for me. 
-
 Posts are arranged into <a href="/categories">categories</a> and include {% assign sorted_cats = site.categories | sort  %}{% for category in sorted_cats %}{% if forloop.last == true %}and {% endif %}<a href="/categories/#{{category[0]}}" style="font-weight:normal;"> {{category[0] | camelcase }}</a> ({{ category[1].size  }}){% if forloop.last == false %}, {% endif %}{% endfor %}. 
 
 

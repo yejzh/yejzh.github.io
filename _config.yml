@@ -1,10 +1,10 @@
 # Site settings
-title: Jinzhou Ye 
+title: Jinzhou Ye 叶金州
 email: yejz@hust.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
-  I am Associate Professor of Philosophy at Huazhong University of Science and Technology, China. My research currently focuses on the public reason project. Here I share my teaching, research and topics I think useful for students and colleagues.
+  I am analytic philosopher, focusing on the order of public reason, and intelligence, both natural and artificial. Here I share my teaching, research and topics I think useful for students and colleagues.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yejzh.net" # the base hostname & protocol for your site
+url: "http://yejzh.github.io" # the base hostname & protocol for your site
 twitter_username: yejzh
 github_username:  yejzh
 orcid_id: 0000-0002-2740-369X
