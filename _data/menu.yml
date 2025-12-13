@@ -1,8 +1,4 @@
-- title: "About"
-  href: "/about/"
 
-- title: "CV"
-  href: "/cv/"
 
 - title: "Research"
   href: "/research/"
@@ -13,5 +9,5 @@
 - title: "For Students"
   href: "/students/"
 
-- title: "After Reasonable Hope"
+- title: "Blog"
   href: "/blog/"
