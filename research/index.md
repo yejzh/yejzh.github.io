@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research lies in the intersection between philosophy and more formalized human sciences, seeking to uncover the underlying values and normative structures that enable as well as constrain our personal, social and public lives. Currently, the focus is on the public reason project. Here, you can find materials relevant to my published research and work in progress. 
+My research lies in the intersection between philosophy and more formalized human sciences, seeking to uncover the underlying values and normative structures that enable as well as constrain our personal, social and public lives. Currently, the focus is on the public reason project. I also inquire into the inner working mechanism of intelligence and agency, both natural and artificial, in the hope of reaching a naturalistic understanding of the whole world, including the life world. Based on this more comprehensive understanding, some normative implications and planning can and should be done. Currently this line of research is focused on AI and robotics. Here, you can find materials relevant to my published research and work in progress. 
 
 ## **Journal Articles**
 
