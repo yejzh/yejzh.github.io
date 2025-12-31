@@ -23,7 +23,7 @@ Here are some resources that I find of use for students.
 
 ## 分析进路
 
-- [程炼：从苏二条看哲学](http://www.aisixiang.com/data/80994.html){:target="_blank"}
+- [程炼：从苏二条看哲学](/students/从苏二条看哲学.pdf){:target="_blank"}
 - [葛四友：分析方法杂谈](https://mp.weixin.qq.com/s/_pwfKM2bKk0qyh3p_tusUQ){:target="_blank"}
 - [葛四友：哲学写作与论证杂谈](/students/葛四友 2018 哲学写作与论证杂谈.pdf){:target="_blank"}
 
