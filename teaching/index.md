@@ -17,6 +17,7 @@ permalink: /teaching/
 - [Political Philosophy](/teaching/pp/){:target="_blank"}
 - [Ethics](/teaching/ethics/){:target="_blank"}
 - [Moral Psychology](/teaching/moral-psy/){:target="_blank"}
+- [AI Philosophy & Ethics](/teaching/ai-phil-ethics/){:target="_blank"}
 
 ### Graduate Courses
 
